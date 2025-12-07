@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Kaio Richard Amaral Lisboa
 
 
-Olá Meu Nome é Kaio Richard Amaral Lisboa, tenho 19 anos, sou Natural de Itajaí-SC no Brasil.
+Olá Meu Nome é Kaio Richard Amaral Lisboa, tenho 19 anos, sou Natural de Itajaí-Santa Catarina no Brasil.
 
 Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas do SENAI de Itajaí.
 
