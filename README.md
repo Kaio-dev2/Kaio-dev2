@@ -17,7 +17,7 @@ Minhas competências integradas lógica de programação com o gerenciamento de 
 | Categoria                 | Tecnologias e Habilidades                                    | Nível Atual            |
 |---------------------------|--------------------------------------------------------------|-------------------------|
 | Linguagens de Programação | Python, C, Dart, Java                                        | Básico                  |
-| Banco de Dados            | MySQL (WorkBench), Redisdb e mongodb, SQL                    | Básico                  |
+| Banco de Dados            | MySQL (WorkBench), Redisdb e mongodb                         | Básico                  |
 | Análise e Ferramentas     | Excel (VBA), Informática Básica, Firebase (API – Vibe Coding)| Básico / Intermediário  |
 | Outras Áreas              | Administração Básica, Empreendedorismo, Marketing Digital    | Intermediária/Avançada  |
 
