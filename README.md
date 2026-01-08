@@ -6,7 +6,9 @@ Olá Meu Nome é Kaio Richard Amaral Lisboa, tenho 19 anos, sou Natural de Itaja
 Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas do SENAI de Itajaí.
 
 Estou Em Busca de Oportunidades na Área de Desenvolvimento Back End, para aplicar e expandir ativamente meus conhecimentos em Lógica de Programação e Banco de Dados, visando contribuir diretamente no desenvolvimento de projetos 
-de software e me destacando em Proatividade e Orientação a Resultados e Aprendizagem Rápida .
+de software e me destacando em Proatividade e Orientação a Resultados e Aprendizagem Rápida . 
+
+Portfólio:https://portif-lio-indol-chi.vercel.app/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,11 +64,4 @@ Habilidades
   </a>
 </p>
 
-
-Redes Sociais
-
-<p align="left"> <a href="https://www.github.com/Kaio-dev2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" title="GitHub" /> </picture> </a> </p>
-
-Portfólio:
-https://portif-lio-indol-chi.vercel.app/
 
