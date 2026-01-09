@@ -8,7 +8,7 @@ Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas do SENAI de 
 Estou Em Busca de Oportunidades na Área de Desenvolvimento Back End, para aplicar e expandir ativamente meus conhecimentos em Lógica de Programação e Banco de Dados, visando contribuir diretamente no desenvolvimento de projetos 
 de software e me destacando em Proatividade e Orientação a Resultados e Aprendizagem Rápida . 
 
-Portfólio:https://portif-lio-indol-chi.vercel.app/
+Portfólio:kaio-richard.vercel.app/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
