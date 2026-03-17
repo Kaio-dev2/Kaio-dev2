@@ -95,7 +95,8 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 # 🐍 Contribuições no GitHub
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Kaio-dev2/Kaio-dev2/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
