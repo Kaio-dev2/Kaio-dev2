@@ -1,67 +1,78 @@
-Olá 👋 Meu nome é Kaio Richard Amaral Lisboa
+# 👋 Olá, eu sou Kaio Richard Amaral Lisboa
 
+💻 Estudante de Desenvolvimento de Sistemas - SENAI  
+🚀 Focado em Back-End, Lógica de Programação e Banco de Dados  
+📍 Itajaí - Santa Catarina | Brasil  
 
-Olá Meu Nome é Kaio Richard Amaral Lisboa, tenho 19 anos, sou Natural de Itajaí-Santa Catarina no Brasil.
+---
 
-Atualmente estou cursando o Técnico em Desenvolvimento de Sistemas do SENAI de Itajaí.
+## 🌐 Portfólio
 
-Estou Em Busca de Oportunidades na Área de Desenvolvimento Back End, para aplicar e expandir ativamente meus conhecimentos em Lógica de Programação e Banco de Dados, visando contribuir diretamente no desenvolvimento de projetos 
-de software e me destacando em Proatividade e Orientação a Resultados e Aprendizagem Rápida . 
+🔗 https://kaio-richard.vercel.app/
 
-Portfólio:kaio-richard.vercel.app/
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------
+# 🚀 Sobre mim
 
-🚀 Hard Skills e Ferramentas
+Tenho 19 anos e atualmente curso Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
-Minhas competências integradas lógica de programação com o gerenciamento de dados e o conhecimento de sistemas:
+Atualmente Trabalho na Escrita Contabilidade de Itajaí na Área de Inovação/TI em Suporte em Anáslise de Dados.
 
-| Categoria                 | Tecnologias e Habilidades                                    | Nível Atual            |
-|---------------------------|--------------------------------------------------------------|-------------------------|
-| Linguagens de Programação | Python, C, Java                                              | Básico                  |
-| Banco de Dados            | MySQL (WorkBench), Redisdb                                   | Básico                  |
-| Análise e Ferramentas     | Excel (VBA), Informática Básica, Firebase (Vibe Coding)|     Básico / Intermediário  |
-| Outras Áreas              | Administração Básica, Empreendedorismo, Marketing Digital    | Intermediária/Avançada  |
+Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento Back-End, aplicando conhecimentos em:
 
+- Lógica de Programação
+- Estrutura de Dados
+- Banco de Dados
+- Desenvolvimento de APIs
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+Sou uma pessoa com **aprendizado rápido, proatividade e foco em resultados**, sempre buscando evoluir minhas habilidades técnicas através de projetos práticos.
 
-🌐 Idiomas
+---
 
-* Português: Fluente (Nativo)
+# 🧠 Tecnologias e Ferramentas
 
-* Inglês: Básico/Intermediário
+| Categoria | Tecnologias | Nível |
+|-----------|-------------|-------|
+| Linguagens | Python • C • Java | Básico |
+| Banco de Dados | MySQL • Postgree's • Excel Power Query • Redis | Básico |
+| Ferramentas | Git • Firebase • Excel VBA | Básico / Intermediário |
+| Outras Áreas | Administração • Empreendedorismo • Marketing Digital | Intermediário |
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-💡 O que você encontra aqui:
+# 🌎 Idiomas
 
-Este perfil é um reflexo do meu aprendizado. Aqui você encontra projetos desenvolvidos durante o curso técnico, soluções de exercícios práticos em **Python** e **C**, e futuras implementações em Java, sempre focadas em boas práticas de programação e manipulação de dados e futuras API's.
+🇧🇷 Português — Nativo  
+🇺🇸 Inglês — Básico / Intermediário  
 
-Habilidades
+---
+
+# 🛠️ Tecnologias que utilizo
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
+---
 
+# 📊 Estatísticas do GitHub
+
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+# 🚀 Objetivo
+
+Meu objetivo é me desenvolver profissionalmente na área de desenvolvimento Back-End, contribuindo com projetos de software e evoluindo constantemente como programador.
+
+---
+
+⭐ Sempre aprendendo, sempre evoluindo.
