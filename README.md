@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou Kaio Richard</h1>
+<h1 align="center">👋 Olá, eu sou Kaio Richard Amaral Lisboa</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação | Back-End <br>
-🎓 Técnico em Desenvolvimento de Sistemas - SENAI <br>
+💻 Desenvolvedor Back-End em formação <br>
+🎓 Técnico em Desenvolvimento de Sistemas - SENAI Itajaí <br>
 📍 Brasil
 </p>
 
@@ -10,20 +10,21 @@
 
 # 🚀 Sobre mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Back-End
-- 📚 Estudando Java, Python e Banco de Dados
-- 🚀 Buscando minha primeira oportunidade na área de tecnologia
+Tenho **19 anos** e sou natural de **Itajaí - Santa Catarina (Brasil)**.
 
----
+Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas pelo SENAI**, com foco em **desenvolvimento Back-End, lógica de programação e banco de dados**.
 
-# 🧰 Stack
+Busco minha **primeira oportunidade na área de tecnologia**, onde eu possa aplicar e expandir meus conhecimentos em desenvolvimento de software, contribuindo com projetos reais e evoluindo constantemente como desenvolvedor.
 
-<p align="center">
+Tenho grande interesse em:
 
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,mongodb,firebase,git" />
+- Desenvolvimento Back-End
+- APIs
+- Estrutura de Dados
+- Banco de Dados
+- Lógica de Programação
 
-</p>
+Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultados**.
 
 ---
 
@@ -33,25 +34,76 @@
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 Tecnologias e Ferramentas
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,mongodb,firebase,git" />
 
 </p>
 
 ---
 
-# 📚 Atualmente aprendendo
+# 🚀 Stack Técnica
 
-- Java
-- Estrutura de Dados
-- APIs REST
-- Banco de Dados
+| Categoria | Tecnologias | Nível |
+|-----------|-------------|-------|
+| Linguagens | Python • C • Java | Básico |
+| Banco de Dados | MySQL • Redis | Básico |
+| Ferramentas | Git • Firebase • Excel (VBA) | Básico / Intermediário |
+| Outras Áreas | Administração • Empreendedorismo • Marketing Digital | Intermediário |
 
 ---
 
-⭐ Sempre evoluindo como desenvolvedor.
+# 🌎 Idiomas
+
+🇧🇷 Português — Nativo  
+🇺🇸 Inglês — Básico / Intermediário  
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de commits
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Atividade no GitHub
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEUUSUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribuições no GitHub
+
+![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🎯 Objetivo
+
+Meu objetivo é crescer profissionalmente como **desenvolvedor Back-End**, participando de projetos reais e contribuindo para soluções tecnológicas eficientes e bem estruturadas.
+
+---
+
+⭐ **Sempre aprendendo, sempre evoluindo como desenvolvedor.**
