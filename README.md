@@ -66,9 +66,9 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -78,20 +78,19 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Kaio-dev2&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-# 📈 Atividade no GitHub
+# 📈 Gráfico de atividade
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEUUSUARIO&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaio-dev2&theme=tokyo-night"/>
 
 </p>
-
 ---
 
 # 🐍 Contribuições no GitHub
