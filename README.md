@@ -49,7 +49,7 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 | Categoria | Tecnologias | Nível |
 |-----------|-------------|-------|
 | Linguagens | Python • C • Java | Lógica + POO |
-| Banco de Dados | MySQL • Postgree's • Redis • Excel (Power Query | Básico |
+| Banco de Dados | MySQL • Postgree's • Redis • Excel (Power Query) | Básico |
 | Ferramentas | Git • Firebase • Excel (VBA) | Básico / Intermediário |
 | Outras Áreas | Administração • Empreendedorismo • Marketing Digital | Intermediário |
 
@@ -102,7 +102,3 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 # 🎯 Objetivo
 
 Meu objetivo é crescer profissionalmente como desenvolvedor Back-End, participando de projetos reais e contribuindo para soluções tecnológicas eficientes e bem estruturadas.
-
----
-
-⭐ **Sempre aprendendo, sempre evoluindo como desenvolvedor.**
