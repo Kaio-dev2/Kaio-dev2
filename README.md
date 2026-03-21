@@ -28,31 +28,39 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 ---
 
-# 🌐 Portfólio
-
-🔗 https://kaio-richard.vercel.app/
-
----
-
-# 🧠 Tecnologias e Ferramentas
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,mongodb,firebase,git" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ---
 
 # 🚀 Stack Técnica
 
-| Categoria | Tecnologias | Nível |
-|-----------|-------------|-------|
-| Linguagens | Python • C • Java | Lógica + POO |
-| Banco de Dados | MySQL • Postgree's • Redis • Excel (Power Query) | Básico |
-| Ferramentas | Git • Firebase • Excel (VBA) | Básico / Intermediário |
-| Outras Áreas | Administração • Empreendedorismo • Marketing Digital | Intermediário |
+### 💻 Linguagens
+- Python (POO em aprendizado)
+- Java (POO, backend em aprendizado)
+- C (lógica e fundamentos)
 
+### 🗄️ Banco de Dados
+- MySQL
+- PostgreSQL
+- Firebase Studio/Console
+
+### ⚙️ Ferramentas
+- Git & GitHub
+- Excel (Power Query, VBA)
+
+### 📈 Outras Competências
+- Lógica de Programação
+- Automação de Processos
+- Marketing Digital
+- Noções de Administração
 ---
 
 # 🌎 Idiomas
@@ -84,21 +92,11 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 ---
 
-# 📈 Gráfico de atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaio-dev2&theme=tokyo-night"/>
-
-</p>
----
-
-# 🐍 Contribuições
-
 ![snake gif](https://github.com/Kaio-dev2/Kaio-dev2/blob/output/github-contribution-grid-snake.svg)
 
 ---
+# 🌐 Portfólio
 
-# 🎯 Objetivo
+🔗 https://kaio-richard.vercel.app/
 
-Meu objetivo é crescer profissionalmente como desenvolvedor Back-End, participando de projetos reais e contribuindo para soluções tecnológicas eficientes e bem estruturadas.
+🔗 https://www.linkedin.com/in/kaio-richard-dev2/
