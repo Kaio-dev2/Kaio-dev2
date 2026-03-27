@@ -8,6 +8,10 @@
 
 ---
 
+![snake gif](https://github.com/Kaio-dev2/Kaio-dev2/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🚀 Sobre mim
 
 Tenho **19 anos** e sou natural de **Itajaí - Santa Catarina (Brasil)**.
@@ -70,7 +74,7 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 🇺🇸 Inglês — Intermediário  
 
 ---
-# 📊 Estatísticas de Linguagens
+# 📊 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-dev2&theme=tokyonight"/>
@@ -88,9 +92,6 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 ---
 
-![snake gif](https://github.com/Kaio-dev2/Kaio-dev2/blob/output/github-contribution-grid-snake.svg)
-
----
 # 🌐 Portfólio
 
 🔗 https://kaio-richard.vercel.app/
