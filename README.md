@@ -70,11 +70,12 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 🇺🇸 Inglês — Intermediário  
 
 ---
+# 📊 Estatísticas de Linguagens
 
-# 📊 Linguagens mais usadas
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-dev2&theme=tokyonight)           ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-dev2&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-dev2&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-dev2&theme=tokyonight"/>
+</p>
 ---
 
 # 🔥 Sequência de commits
