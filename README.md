@@ -71,15 +71,9 @@ Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultad
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Linguagens mais usadas
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&layout=compact&theme=tokyonight"/>
-
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-dev2&theme=tokyonight)           ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-dev2&theme=tokyonight)
 
 ---
 
