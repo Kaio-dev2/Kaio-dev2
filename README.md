@@ -18,18 +18,7 @@ Tenho **19 anos** e sou natural de **Itajaí - Santa Catarina (Brasil)**.
 
 Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas pelo SENAI**, com foco em **desenvolvimento Back-End, lógica de programação e banco de dados**.
 
-Busco minha **primeira oportunidade na área de tecnologia**, onde eu possa aplicar e expandir meus conhecimentos em desenvolvimento de software, contribuindo com projetos reais e evoluindo constantemente como desenvolvedor.
-
-Tenho grande interesse em:
-
-- Desenvolvimento Back-End
-- APIs
-- Estrutura de Dados
-- Banco de Dados
-- Lógica de Programação
-
-Sou uma pessoa com **aprendizado rápido, proatividade e orientação a resultados**.
-
+Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e expandir meus conhecimentos em desenvolvimento de software, contribuindo com projetos reais e evoluindo constantemente como desenvolvedor.
 ---
 
 <p align="center">
