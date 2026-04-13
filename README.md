@@ -29,7 +29,6 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
 </p>
 ---
 
@@ -47,7 +46,8 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ### ⚙️ Ferramentas
 - Git & GitHub
-- Excel (Power Query, VBA)
+- Vercel
+- Supabase
 
 ### 📈 Outras Competências
 - Lógica de Programação
