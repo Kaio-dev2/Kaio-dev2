@@ -36,7 +36,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ### 💻 Linguagens
 - Python (POO em aprendizado)
-- Java (POO, backend em aprendizado)
+- Java (POO / Springboot, backend em aprendizado)
 - C (lógica e fundamentos)
 
 ### 🗄️ Banco de Dados
