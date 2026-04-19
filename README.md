@@ -63,8 +63,9 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 # 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaio-dev2&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaio-dev2&theme=tokyonight"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do Kaio" />
+  
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Linguagens" />
 </p>
 ---
 
@@ -78,7 +79,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ---
 
-# 🌐 Portfólio
+# 📫 Conecte-se comigo
 
 🔗 https://kaio-richard.vercel.app/
 
