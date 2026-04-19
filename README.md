@@ -23,7 +23,6 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -37,7 +36,6 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 ### 💻 Linguagens
 - Python (POO em aprendizado)
 - Java (POO / Springboot, backend em aprendizado)
-- C (lógica e fundamentos)
 
 ### 🗄️ Banco de Dados
 - MySQL
