@@ -33,7 +33,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 # 🚀 Stack Técnica
 
-### 💻 Linguagens
+### 💻 Linguagens em Foco
 - Python (POO em aprendizado)
 - Java (POO / Springboot, backend em aprendizado)
 
