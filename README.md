@@ -65,6 +65,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 <p align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do Kaio" />
   
+  
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Linguagens" />
 </p>
 ---
