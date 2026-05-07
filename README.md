@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
 Tenho **19 anos** e sou natural de **Itajaí - Santa Catarina (Brasil)**.
 
@@ -31,44 +31,44 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 </p>
 ---
 
-# 🚀 Stack Técnica
+# Stack Técnica
 
-### 💻 Linguagens em Foco
+###Linguagens em Foco
 - Python (POO em aprendizado)
 - Java (POO / Springboot, backend em aprendizado)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - MySQL
 - PostgreSQL
 - Firebase Studio/Console
 
-### ⚙️ Ferramentas
+### Ferramentas
 - Git & GitHub
 - Vercel
 - Supabase
 
-### 📈 Outras Competências
+### Outras Competências
 - Lógica de Programação
 - Automação de Processos
 - Marketing Digital
 - Noções de Administração
 ---
 
-# 🌎 Idiomas
+# Idiomas
 
 🇧🇷 Português — Nativo  
 🇺🇸 Inglês — Intermediário  
 
 ---
-# 📊 Linguagens mais usadas
+# Linguagens mais usadas
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
 </p>
 
-# 🔥 Sequência de commits
+# Sequência de commits
 
 <p align="center">
 
@@ -78,7 +78,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ---
 
-# 📫 Conecte-se comigo
+# 🔗 Conecte-se comigo
 
 🔗 https://kaio-richard.vercel.app/
 
