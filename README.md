@@ -63,11 +63,9 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 # Linguagens mais usadas
 
 <p align="center">
-  <img height="195"
-    src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
 </p>
 
 # Sequência de commits
