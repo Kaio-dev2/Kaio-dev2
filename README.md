@@ -42,6 +42,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ### Banco de Dados
 - MySQL
+- Sqlite
 - PostgreSQL
 - Firebase Studio/Console
 
@@ -49,6 +50,7 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 - Git & GitHub
 - Vercel
 - Supabase
+- Postman
 
 ### Outras Competências
 - Lógica de Programação
