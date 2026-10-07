@@ -76,9 +76,8 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 <p align="center">
   <img height="195" src="https://github-readme-stats.shion.dev/api?username=Kaio-dev2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
-  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaio-dev2&theme=tokyonight&hide_border=true&layout=compact&count_private=true&hide=html,typescript,vue,css" />
 </p>
-
 # Sequência de commits
 
 <p align="center">
