@@ -52,7 +52,10 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 
 ### Competências
 
-`Lógica de Programação` `Automação de Processos` `Marketing Digital` `Noções de Administração`
+Lógica de Programação
+Automação de Processos
+Administração
+
 ---
 
 # Idiomas
