@@ -50,12 +50,6 @@ Busco minha **oportunidade na área de tecnologia**, onde eu possa aplicar e exp
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Competências
-
-Lógica de Programação
-Automação de Processos
-Administração
-
 ---
 
 # Idiomas
