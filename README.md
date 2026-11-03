@@ -3,7 +3,7 @@
 <p align="center">
 💻 Desenvolvedor Back-End em formação <br>
 🎓 Técnico em Desenvolvimento de Sistemas - SENAI Itajaí <br>
-📍 Brasil
+📍 Brasil - SC
 </p>
 
 ---
